@@ -15,7 +15,7 @@ Este projeto é uma implementação do jogo **Flappy Bird** utilizando **Python 
 * Estrutura preparada para integração com NEAT e evolução de agentes.
 * Colisões precisas usando **máscaras** (pixel perfect collision).
 * Sistema de pontuação.
-* Configuração do NEAT personalizável (`config.txt`).
+* Configuração do NEAT personalizável (`03-18 - config.txt`).
 
 ---
 
@@ -30,7 +30,7 @@ Este projeto é uma implementação do jogo **Flappy Bird** utilizando **Python 
 
 ## ⚙️ Configuração NEAT
 
-O arquivo de configuração (`config.txt`) define parâmetros como:
+O arquivo de configuração (`03-18 - config.txt`) define parâmetros como:
 
 * **Tamanho da população** (`pop_size`)
 * **Taxa de mutação** para pesos e bias
@@ -47,8 +47,8 @@ O arquivo de configuração (`config.txt`) define parâmetros como:
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/maatheusantanadev/FlappyBird_IA
-cd FlappyBird_IA
+git clone https://github.com/maatheusantanadev/FlappyBird
+cd FlappyBird
 ```
 
 2. **Instale as dependências**
