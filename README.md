@@ -47,8 +47,8 @@ O arquivo de configuração (`03-18 - config.txt`) define parâmetros como:
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/maatheusantanadev/FlappyBird
-cd FlappyBird
+git clone https://github.com/maatheusantanadev/FlappyBird_IA
+cd FlappyBird_IA
 ```
 
 2. **Instale as dependências**
